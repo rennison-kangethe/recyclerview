@@ -21,15 +21,15 @@ class MainActivity : AppCompatActivity() {
 
     private fun genStudents() :MutableList<Student> {
      val students = mutableListOf<Student>()
-        students.add(Student("222","kangethe"))
-        students.add(Student("111","soi"))
-        students.add(Student("333","virginia"))
-        students.add(Student("222","kangethe"))
-        students.add(Student("222","kangethe"))
-        students.add(Student("222","kangethe"))
-        students.add(Student("222","kangethe"))
-        students.add(Student("222","kangethe"))
-        students.add(Student("222","kangethe"))
+        students.add(Student("345","Rennison"))
+        students.add(Student("256","soi"))
+        students.add(Student("372","eric"))
+        students.add(Student("222","steve"))
+        students.add(Student("287","mike"))
+        students.add(Student("111","gladys"))
+        students.add(Student("000","peter"))
+        students.add(Student("890","mish"))
+        students.add(Student("754","edrin"))
 
 
      return students
